@@ -79,10 +79,10 @@ Para que o gestor seja notificado no celular quando o processo for concluído, v
 
 Simulação de como o aplicativo ficaria exibido em um celular, com uma interface simples e o botão "Executar Automação" ao centro, além da área de status de execução logo abaixo.
 
-![](Aplicativo.jpg)
+![](APPpetshop.jpg)
 
 
-#### bResumo do trabalho realizado:
+#### Resumo do trabalho realizado:
 
 - **Problema inicial:** Execução demorada de macros e envio manual de e-mails.
 
